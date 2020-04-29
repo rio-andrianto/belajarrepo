@@ -1,2 +1,3 @@
 # belajarrepo
 tidakada
+adakok
